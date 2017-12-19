@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\bin\Debug\PromptingPayCalc.exe.config
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\obj\Debug\PromptingPayCalc.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\bin\Debug\PromptingPayCalc.exe
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\bin\Debug\PromptingPayCalc.pdb
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\obj\Debug\PromptingPayCalc.exe
+C:\Users\User\Desktop\LearnCsharp\PromptingPayCalc\PromptingPayCalc\obj\Debug\PromptingPayCalc.pdb
